@@ -35,11 +35,22 @@ This tutorial will guide you through the first steps of using KoboToolbox, from 
 3. 	Enter the required information in the form and click on create account.
 
 ![](kobotoolbox_tutorial_files/img/img1.png)
+
 **2. Login to KoboToolbox**
 
 1. Go to [https://kf.kobotoolbox.org/account/login](https://kf.kobotoolbox.org/account/login)
 2. Enter your username and password
 
-![](kobotoolbox_tutorial_files/img/img1.png)
+![](kobotoolbox_tutorial_files/img/img2.png)
+**My Projects Dashboard**
+
+In the My Projects View you will find all your projects listed. You can see on the left side a list of the Status of your projects just below the ‘New’ button. On the upper right you will find three option to apply to your projects: archive, share or delete.
+
+![](kobotoolbox_tutorial_files/img/img3.png)
+
+## Creating a new questionnaire
+
+1. Login to your account (see step 2 on previous section)
+2. On the *My Projects* view, click on `New` ![](kobotoolbox_tutorial_files/img/img4.png)
 
 
