@@ -42,6 +42,7 @@ This tutorial will guide you through the first steps of using KoboToolbox, from 
 2. Enter your username and password
 
 ![](kobotoolbox_tutorial_files/img/img2.png)
+
 **My Projects Dashboard**
 
 In the My Projects View you will find all your projects listed. You can see on the left side a list of the Status of your projects just below the ‘New’ button. On the upper right you will find three option to apply to your projects: archive, share or delete.
@@ -50,7 +51,11 @@ In the My Projects View you will find all your projects listed. You can see on t
 
 ## Creating a new questionnaire
 
-1. Login to your account (see step 2 on previous section)
+1. Login to your account (see step 2 on [previous section](https://6f55d0be68b34246b8b812a68d153338.app.posit.cloud/p/b6def2a0/#getting-started-in-kobotoolbox))
 2. On the *My Projects* view, click on `New` ![](kobotoolbox_tutorial_files/img/img4.png)
+3. Select the option `Build from scratch`
 
-
+![](kobotoolbox_tutorial_files/img/img5.png)
+4. Enter a title for your project, along with a sector and a country. Then click on `Create Project`.
+![](kobotoolbox_tutorial_files/img/img6.png)
+5. Start adding new questions by clicking on the `+` button and then `Add a question`.
