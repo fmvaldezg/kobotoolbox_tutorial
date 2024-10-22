@@ -7,9 +7,9 @@ format:
     toc-location: left
 ---
 
-# Introduction
+## Introduction
 
-This tutorial will guide you through the first steps of using KoboToolbox, from creating an account, generating a form with different types of questions, collecting data online and offline, exporting and visualizing data.
+This tutorial will guide you through the first steps for using KoboToolbox, from creating an account, generating a form with different types of questions, collecting data online and offline, exporting and visualizing data.
 
 ## What is Kobotoolbox?
 
@@ -56,6 +56,19 @@ In the My Projects View you will find all your projects listed. You can see on t
 3. Select the option `Build from scratch`
 
 ![](kobotoolbox_tutorial_files/img/img5.png)
+
 4. Enter a title for your project, along with a sector and a country. Then click on `Create Project`.
+
 ![](kobotoolbox_tutorial_files/img/img6.png)
-5. Start adding new questions by clicking on the `+` button and then `Add a question`.
+
+5. Start adding new questions by clicking on the ![](kobotoolbox_tutorial_files/img/img6_1.png) button and then `Add a question`.
+
+6. We are going to add a `Select One` type question by clicking over the first option.
+![](kobotoolbox_tutorial_files/img/img7.png)
+
+7. In the new question, you will have a space to add the question prompt, a hint on how to respond and a list of options to respond the question.
+![](kobotoolbox_tutorial_files/img/img8.png)
+
+8. Once you are done creating questions, you can click on ![](kobotoolbox_tutorial_files/img/img9.png) button located on the upper right corner of the screen.
+
+9. Click on the `Retunr to list` ![](kobotoolbox_tutorial_files/img/img10.png) button located on the upper left corner to go back to the dashboard screen.
