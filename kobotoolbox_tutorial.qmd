@@ -34,6 +34,12 @@ This tutorial will guide you through the first steps of using KoboToolbox, from 
 2. 	Select ‘Global KoboToolbox Server’
 3. 	Enter the required information in the form and click on create account.
 
+![](kobotoolbox_tutorial_files/img/img1.png)
+**2. Login to KoboToolbox**
 
+1. Go to [https://kf.kobotoolbox.org/account/login](https://kf.kobotoolbox.org/account/login)
+2. Enter your username and password
+
+![](kobotoolbox_tutorial_files/img/img1.png)
 
 
