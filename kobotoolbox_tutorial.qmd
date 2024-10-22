@@ -1,0 +1,38 @@
+---
+title: "Kobotoolbox Tutorial"
+author: "Felipe Valdez"
+format:
+  html:
+    toc: true
+    toc-location: left
+---
+
+# Introduction
+
+This tutorial will guide you through the first steps of using KoboToolbox, from creating an account, generating a form with different types of questions, collecting data online and offline, exporting and visualizing data.
+
+## What is Kobotoolbox?
+
+[KoboToolbox](https://www.kobotoolbox.org/about-us/software/) is an open source platform for the collection, management, and visualization of data. As the most widely used primary data collection tool in the nonprofit sector, it is the tool of choice for over 14,000 social impact organizations worldwide.
+
+![](https://www.kobotoolbox.org/assets/images/common/kobotoolbox_logo_default_for-light-bg.svg)
+**Kobotoolbox features**
+
+-	Build questionnaires in the web or using XLSForm
+-	Translate questionnaires into multiple languages
+-	Create a questions library
+-	Collect data offline or online in multiple devices (mobile phones, tablets, laptops)
+-	Visualize data in maps and reports
+-	Download data in multiple formats (XLS, CSV, KML, ZIP, GeoJSON)
+-	Share and collaborate on projects
+
+## Getting started in KoboToolbox
+
+**Create an account**
+
+1.	Go to [https://www.kobotoolbox.org/sign-up/](https://www.kobotoolbox.org/sign-up/)
+2. 	Select ‘Global KoboToolbox Server’
+3. 	Enter the required information in the form and click on create account.
+
+
+
