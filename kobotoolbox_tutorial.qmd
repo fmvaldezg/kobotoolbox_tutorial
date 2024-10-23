@@ -126,4 +126,29 @@ Or you can click on `OPEN` to open the form from the browser on the device you a
 
 ![](kobotoolbox_tutorial_files/img/img16.jpg)
 
-3.	If there is a location question on the form. Click on the record the current location icon. ![](kobotoolbox_tutorial_files/img/img17.jpg)
+3.	If there is a location question on the form. Click on the record the current location icon. ![](kobotoolbox_tutorial_files/img/img17_1.png)
+
+![](kobotoolbox_tutorial_files/img/img17.jpg)
+
+4.	Once you are done filling the questions, and you get to the bottom of the form, click on `Submit form`. 
+
+![](kobotoolbox_tutorial_files/img/img18.jpg)
+
+## Collecting data offline
+
+**Before** going to the field or while you are **still online**, be sure to follow these steps:
+
+1.	Open the form using the URL when you are still online.
+
+2.	Click on the bookmark icon on the top right of the screen
+
+![](kobotoolbox_tutorial_files/img/img19.png)
+
+3.	If you are using an iPhone, click on the `Share` option ![](kobotoolbox_tutorial_files/img/img20.png)
+
+4.	Click on `Add to home screen`.
+
+![](kobotoolbox_tutorial_files/img/img21.png)
+
+5.	You will see an icon created on your home screen with the name of your form ![](kobotoolbox_tutorial_files/img/img22.jpg)
+
