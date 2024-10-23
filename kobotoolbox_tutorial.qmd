@@ -31,7 +31,9 @@ This tutorial will guide you through the first steps for using KoboToolbox, from
 **1. Create an account**
 
 1.	Go to [https://www.kobotoolbox.org/sign-up/](https://www.kobotoolbox.org/sign-up/)
+
 2. 	Select ‘Global KoboToolbox Server’
+
 3. 	Enter the required information in the form and click on create account.
 
 ![](kobotoolbox_tutorial_files/img/img1.png)
@@ -39,6 +41,7 @@ This tutorial will guide you through the first steps for using KoboToolbox, from
 **2. Login to KoboToolbox**
 
 1. Go to [https://kf.kobotoolbox.org/account/login](https://kf.kobotoolbox.org/account/login)
+
 2. Enter your username and password
 
 ![](kobotoolbox_tutorial_files/img/img2.png)
@@ -52,7 +55,9 @@ In the My Projects View you will find all your projects listed. You can see on t
 ## Creating a new questionnaire
 
 1. Login to your account (see step 2 on [previous section](https://6f55d0be68b34246b8b812a68d153338.app.posit.cloud/p/b6def2a0/#getting-started-in-kobotoolbox))
+
 2. On the *My Projects* view, click on `New` ![](kobotoolbox_tutorial_files/img/img4.png)
+
 3. Select the option `Build from scratch`
 
 ![](kobotoolbox_tutorial_files/img/img5.png)
@@ -71,4 +76,54 @@ In the My Projects View you will find all your projects listed. You can see on t
 
 8. Once you are done creating questions, you can click on ![](kobotoolbox_tutorial_files/img/img9.png) button located on the upper right corner of the screen.
 
-9. Click on the `Retunr to list` ![](kobotoolbox_tutorial_files/img/img10.png) button located on the upper left corner to go back to the dashboard screen.
+9. Click on the `Retunr to list` ![](kobotoolbox_tutorial_files/img/img10.png) button located on the upper left corner to go back to the dashboard 
+
+## Deploying and sharing a questionnaire
+
+1. Preview your questionnaire:
+
+Once you are done creating the questionnaire, you might like to preview it. To do so, click on the name of your project on the list in the dashborad.
+
+![](kobotoolbox_tutorial_files/img/img11.png)
+
+You will see a summary of the project, displaying the description, the project status, number of questions, the owner, last time modified and deployed. Also, on the bottom of the page you will see a chart and statistics of the submissions. 
+
+To preview your questionnaire, click on `Preview form` on the Quick Links menu on the right of the screen.
+
+![](kobotoolbox_tutorial_files/img/img12.png)
+
+A temporary popup windows will show a complete functional version of the form. You can fill up the questions, but the responses will not be loaded to your project.
+
+2. Deploy the questionnaire
+
+Deploying your form is needed to make it available to the public, or to those who will be filling the form in the field. 
+
+To deploy the form, click on `FORM` menu on the top of the screen, next to `SUMMARY`.
+Then, click on the `DEPLOY` (or `REDEPLOY` if you made changes to the form) button.
+
+![](kobotoolbox_tutorial_files/img/img13.png)
+
+Remember to redeploy your form each time you made changes to the questions in order to see them in the form you are sharing. 
+
+3. Preparing the for before data collection
+
+Before starting to collect data, you will want to set up the mode of collection. 
+In the same window `FORM`, under the section `Collect data` you will see a drop-down menu with multiple options. Select the one that best adapts to the type of collection you will be doing. In this case, we will set it on `Online-Offline (multiple submissions)` as we want to collect data without being connected to the internet.
+
+![](kobotoolbox_tutorial_files/img/img14.png)
+
+Now, to start collecting the data you can simply click on the `COPY` button to copy the URL of your form. You can share this url with the people that will be adding entries to the form. 
+
+Or you can click on `OPEN` to open the form from the browser on the device you are using. 
+
+## Collecting data on a mobile device
+
+1. Once you open the URL of the form, if the form includes a location question, you will see a message asking to provide access to location services. Be sure to `allow access` if you want to be able to use the location of your phone in the form.
+
+![](kobotoolbox_tutorial_files/img/img15.jpg)
+
+2.	Fill out the questions as needed.
+
+![](kobotoolbox_tutorial_files/img/img16.jpg)
+
+3.	If there is a location question on the form. Click on the record the current location icon. ![](kobotoolbox_tutorial_files/img/img17.jpg)
