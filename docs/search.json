@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "kobotoolbox_tutorial.html",
+    "href": "kobotoolbox_tutorial.html",
+    "title": "Kobotoolbox Tutorial",
+    "section": "",
+    "text": "This tutorial will guide you through the first steps for using KoboToolbox, from creating an account, generating a form with different types of questions, collecting data online and offline, exporting and visualizing data."
+  },
+  {
+    "objectID": "kobotoolbox_tutorial.html#introduction",
+    "href": "kobotoolbox_tutorial.html#introduction",
+    "title": "Kobotoolbox Tutorial",
+    "section": "",
+    "text": "This tutorial will guide you through the first steps for using KoboToolbox, from creating an account, generating a form with different types of questions, collecting data online and offline, exporting and visualizing data."
+  },
+  {
+    "objectID": "kobotoolbox_tutorial.html#what-is-kobotoolbox",
+    "href": "kobotoolbox_tutorial.html#what-is-kobotoolbox",
+    "title": "Kobotoolbox Tutorial",
+    "section": "What is Kobotoolbox?",
+    "text": "What is Kobotoolbox?\nKoboToolbox is an open source platform for the collection, management, and visualization of data. As the most widely used primary data collection tool in the nonprofit sector, it is the tool of choice for over 14,000 social impact organizations worldwide.\n\nKobotoolbox features\n\nBuild questionnaires in the web or using XLSForm\nTranslate questionnaires into multiple languages\nCreate a questions library\nCollect data offline or online in multiple devices (mobile phones, tablets, laptops)\nVisualize data in maps and reports\nDownload data in multiple formats (XLS, CSV, KML, ZIP, GeoJSON)\nShare and collaborate on projects"
+  },
+  {
+    "objectID": "kobotoolbox_tutorial.html#getting-started-in-kobotoolbox",
+    "href": "kobotoolbox_tutorial.html#getting-started-in-kobotoolbox",
+    "title": "Kobotoolbox Tutorial",
+    "section": "Getting started in KoboToolbox",
+    "text": "Getting started in KoboToolbox\n1. Create an account\n\nGo to https://www.kobotoolbox.org/sign-up/\nSelect ‘Global KoboToolbox Server’\nEnter the required information in the form and click on create account.\n\n\n2. Login to KoboToolbox\n\nGo to https://kf.kobotoolbox.org/account/login\nEnter your username and password\n\n\nMy Projects Dashboard\nIn the My Projects View you will find all your projects listed. You can see on the left side a list of the Status of your projects just below the ‘New’ button. On the upper right you will find three option to apply to your projects: archive, share or delete."
+  },
+  {
+    "objectID": "kobotoolbox_tutorial.html#creating-a-new-questionnaire",
+    "href": "kobotoolbox_tutorial.html#creating-a-new-questionnaire",
+    "title": "Kobotoolbox Tutorial",
+    "section": "Creating a new questionnaire",
+    "text": "Creating a new questionnaire\n\nLogin to your account (see step 2 on previous section)\nOn the My Projects view, click on New \nSelect the option Build from scratch\n\n\n\nEnter a title for your project, along with a sector and a country. Then click on Create Project.\n\n\n\nStart adding new questions by clicking on the  button and then Add a question.\nWe are going to add a Select One type question by clicking over the first option. \nIn the new question, you will have a space to add the question prompt, a hint on how to respond and a list of options to respond the question. \nOnce you are done creating questions, you can click on  button located on the upper right corner of the screen.\nClick on the Retunr to list  button located on the upper left corner to go back to the dashboard"
+  },
+  {
+    "objectID": "kobotoolbox_tutorial.html#deploying-and-sharing-a-questionnaire",
+    "href": "kobotoolbox_tutorial.html#deploying-and-sharing-a-questionnaire",
+    "title": "Kobotoolbox Tutorial",
+    "section": "Deploying and sharing a questionnaire",
+    "text": "Deploying and sharing a questionnaire\n\nPreview your questionnaire:\n\nOnce you are done creating the questionnaire, you might like to preview it. To do so, click on the name of your project on the list in the dashborad.\n\nYou will see a summary of the project, displaying the description, the project status, number of questions, the owner, last time modified and deployed. Also, on the bottom of the page you will see a chart and statistics of the submissions.\nTo preview your questionnaire, click on Preview form on the Quick Links menu on the right of the screen.\n\nA temporary popup windows will show a complete functional version of the form. You can fill up the questions, but the responses will not be loaded to your project.\n\nDeploy the questionnaire\n\nDeploying your form is needed to make it available to the public, or to those who will be filling the form in the field.\nTo deploy the form, click on FORM menu on the top of the screen, next to SUMMARY. Then, click on the DEPLOY (or REDEPLOY if you made changes to the form) button.\n\nRemember to redeploy your form each time you made changes to the questions in order to see them in the form you are sharing.\n\nPreparing the for before data collection\n\nBefore starting to collect data, you will want to set up the mode of collection. In the same window FORM, under the section Collect data you will see a drop-down menu with multiple options. Select the one that best adapts to the type of collection you will be doing. In this case, we will set it on Online-Offline (multiple submissions) as we want to collect data without being connected to the internet.\n\nNow, to start collecting the data you can simply click on the COPY button to copy the URL of your form. You can share this url with the people that will be adding entries to the form.\nOr you can click on OPEN to open the form from the browser on the device you are using."
+  },
+  {
+    "objectID": "kobotoolbox_tutorial.html#collecting-data-on-a-mobile-device",
+    "href": "kobotoolbox_tutorial.html#collecting-data-on-a-mobile-device",
+    "title": "Kobotoolbox Tutorial",
+    "section": "Collecting data on a mobile device",
+    "text": "Collecting data on a mobile device\n\nOnce you open the URL of the form, if the form includes a location question, you will see a message asking to provide access to location services. Be sure to allow access if you want to be able to use the location of your phone in the form.\n\n\n\nFill out the questions as needed.\n\n\n\nIf there is a location question on the form. Click on the record the current location icon. \n\n\n\nOnce you are done filling the questions, and you get to the bottom of the form, click on Submit form."
+  },
+  {
+    "objectID": "kobotoolbox_tutorial.html#collecting-data-offline",
+    "href": "kobotoolbox_tutorial.html#collecting-data-offline",
+    "title": "Kobotoolbox Tutorial",
+    "section": "Collecting data offline",
+    "text": "Collecting data offline\nBefore going to the field or while you are still online, be sure to follow these steps:\n\nOpen the form using the URL when you are still online.\nTo bookmark the form, if you are using an iPhone, click on the Share option \nClick on Add to home screen.\n\n\n\nYou will see an icon created on your home screen with the name of your form \n\n\nWarning! Do not clear you internet browser history if you are collecting data offline.\n\n\nWell done! Always use the homescreen shortcut you just created to open the form.\n\n\nFill out the form as needed and then click on the Submit button.\nSince you are offline, you will see a message Record queued for submission.\n\n\n\nAll data you fill and submit in the form while offline will be stored in your browser cache and remain in queue until you are back online.\nYou can see the queued records by clicking on the left edge of the screen. This will open a side panel like the one below, listing all records waiting to be uploaded.\n\n\n\nOnce you are back online, simply click on the Upload button. Although the form will try to upload every 5 minutes, it is a good practive to check the queued panel to be sure all records have been uploaded.\nAlternatively, if you think you will not have connection soon and fear loosing your records, you can export the data and save it in your phone as a ZIP file.\n\n\n\nTo do so, simply click on the Export button on the queued panel and then click OK when the file is created.\n\n\n\nThen click on Download and your ZIP file will be saved in you device. This file contains a .xml file with every record."
+  }
+]

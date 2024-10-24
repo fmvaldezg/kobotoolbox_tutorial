@@ -6,7 +6,6 @@ author:
 toc: true
 toc-location: left
 license: CC BY-NC-SA
-output-dir: /docs
 format:
   html: default
   pdf: default
