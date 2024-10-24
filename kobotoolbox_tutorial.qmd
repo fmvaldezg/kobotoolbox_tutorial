@@ -158,4 +158,26 @@ Or you can click on `OPEN` to open the form from the browser on the device you a
   <strong>Well done!</strong> Always use the homescreen shortcut you just created to open the form.
 </div>
 
-5. 
+5. Fill out the form as needed and then click on the `Submit` button.
+
+6. Since you are offline, you will see a message `Record queued for submission`.
+
+![](kobotoolbox_tutorial_files/img/img23.png)
+
+7. All data you fill and submit in the form while offline will be stored in your browser cache and remain in queue until you are back online.
+
+8. You can see the queued records by clicking on the left edge of the screen. This will open a side panel like the one below, listing all records waiting to be uploaded.
+
+![](kobotoolbox_tutorial_files/img/img24.png)
+
+9. Once you are back online, simply click on the `Upload` button. Although the form will try to upload every 5 minutes, it is a good practive to check the queued panel to be sure all records have been uploaded.
+
+10. Alternatively, if you think you will not have connection soon and fear loosing your records, you can export the data and save it in your phone as a ZIP file. 
+
+![](kobotoolbox_tutorial_files/img/img25.png)
+
+11. To do so, simply click on the `Export` button on the queued panel and then click `OK` when the file is created.
+
+![](kobotoolbox_tutorial_files/img/img26.png)
+
+12. Then click on `Download` and your ZIP file will be saved in you device. This file contains a .xml file with every record.
