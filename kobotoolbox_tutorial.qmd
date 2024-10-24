@@ -3,8 +3,6 @@ title: "Kobotoolbox Tutorial"
 author: "Felipe Valdez felipe.valdez@temple.edu"
 toc: true
 toc-location: left
-execute:
-  debug: true
 format:
 
   pdf: default
