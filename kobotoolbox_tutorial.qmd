@@ -1,10 +1,13 @@
 ---
 title: "Kobotoolbox Tutorial"
-author: "Felipe Valdez felipe.valdez@temple.edu"
+author:
+  name: Felipe Valdez
+  url: mailto:felipe.valdez@temple.edu
 toc: true
 toc-location: left
+license: CC BY-NC-SA
 format:
-
+  html: default
   pdf: default
 ---
 
