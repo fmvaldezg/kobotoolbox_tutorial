@@ -54,5 +54,12 @@
     "title": "Kobotoolbox Tutorial",
     "section": "Collecting data offline",
     "text": "Collecting data offline\nBefore going to the field or while you are still online, be sure to follow these steps:\n\nOpen the form using the URL when you are still online.\nTo bookmark the form, if you are using an iPhone, click on the Share option \nClick on Add to home screen.\n\n\n\nYou will see an icon created on your home screen with the name of your form \n\n\nWarning! Do not clear you internet browser history if you are collecting data offline.\n\n\nWell done! Always use the homescreen shortcut you just created to open the form.\n\n\nFill out the form as needed and then click on the Submit button.\nSince you are offline, you will see a message Record queued for submission.\n\n\n\nAll data you fill and submit in the form while offline will be stored in your browser cache and remain in queue until you are back online.\nYou can see the queued records by clicking on the left edge of the screen. This will open a side panel like the one below, listing all records waiting to be uploaded.\n\n\n\nOnce you are back online, simply click on the Upload button. Although the form will try to upload every 5 minutes, it is a good practive to check the queued panel to be sure all records have been uploaded.\nAlternatively, if you think you will not have connection soon and fear loosing your records, you can export the data and save it in your phone as a ZIP file.\n\n\n\nTo do so, simply click on the Export button on the queued panel and then click OK when the file is created.\n\n\n\nThen click on Download and your ZIP file will be saved in you device. This file contains a .xml file with every record."
+  },
+  {
+    "objectID": "kobotoolbox_tutorial.html#attribution",
+    "href": "kobotoolbox_tutorial.html#attribution",
+    "title": "Kobotoolbox Tutorial",
+    "section": "Attribution",
+    "text": "Attribution\n\n\nKobotoolbox Tutorial by Felipe Valdez is licensed under CC BY-NC-SA 4.0"
   }
 ]
