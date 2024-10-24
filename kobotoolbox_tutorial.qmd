@@ -19,6 +19,7 @@ This tutorial will guide you through the first steps for using KoboToolbox, from
 [KoboToolbox](https://www.kobotoolbox.org/about-us/software/) is an open source platform for the collection, management, and visualization of data. As the most widely used primary data collection tool in the nonprofit sector, it is the tool of choice for over 14,000 social impact organizations worldwide.
 
 ![](kobotoolbox_tutorial_files/img/kobotoolbox_logo.png)
+
 **Kobotoolbox features**
 
 -	Build questionnaires in the web or using XLSForm
