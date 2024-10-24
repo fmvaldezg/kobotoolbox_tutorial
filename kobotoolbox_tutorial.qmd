@@ -148,7 +148,7 @@ Or you can click on `OPEN` to open the form from the browser on the device you a
 
 3.	Click on `Add to home screen`.
 
-![](kobotoolbox_tutorial_files/img/img21.png)
+![](kobotoolbox_tutorial_files/img/img21.jpg)
 
 4.	You will see an icon created on your home screen with the name of your form ![](kobotoolbox_tutorial_files/img/img22.jpg)
 
